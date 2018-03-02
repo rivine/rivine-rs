@@ -1,0 +1,6 @@
+[package]
+name = "rivine"
+version = "0.1.0"
+authors = ["Glen De Cauwsemaecker <decauwsemaecker.glen@gmail.com>"]
+
+[dependencies]
